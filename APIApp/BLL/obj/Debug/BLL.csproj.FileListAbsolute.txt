@@ -1,0 +1,9 @@
+Z:\Study\.net\Project\APIApp\BLL\bin\Debug\BLL.dll
+Z:\Study\.net\Project\APIApp\BLL\bin\Debug\BLL.pdb
+Z:\Study\.net\Project\APIApp\BLL\bin\Debug\DAL.dll
+Z:\Study\.net\Project\APIApp\BLL\bin\Debug\DAL.pdb
+Z:\Study\.net\Project\APIApp\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+Z:\Study\.net\Project\APIApp\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+Z:\Study\.net\Project\APIApp\BLL\obj\Debug\BLL.csproj.CopyComplete
+Z:\Study\.net\Project\APIApp\BLL\obj\Debug\BLL.dll
+Z:\Study\.net\Project\APIApp\BLL\obj\Debug\BLL.pdb

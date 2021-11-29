@@ -1,0 +1,6 @@
+Z:\Study\.net\Project\APIApp\DAL\bin\Debug\DAL.dll
+Z:\Study\.net\Project\APIApp\DAL\bin\Debug\DAL.pdb
+Z:\Study\.net\Project\APIApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+Z:\Study\.net\Project\APIApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+Z:\Study\.net\Project\APIApp\DAL\obj\Debug\DAL.dll
+Z:\Study\.net\Project\APIApp\DAL\obj\Debug\DAL.pdb
