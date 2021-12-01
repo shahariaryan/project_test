@@ -4,3 +4,9 @@ Z:\Study\.net\Project\APIApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
 Z:\Study\.net\Project\APIApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 Z:\Study\.net\Project\APIApp\DAL\obj\Debug\DAL.dll
 Z:\Study\.net\Project\APIApp\DAL\obj\Debug\DAL.pdb
+Z:\Study\.net\Project\ApiApp\DAL\bin\Debug\DAL.dll.config
+Z:\Study\.net\Project\ApiApp\DAL\bin\Debug\EntityFramework.dll
+Z:\Study\.net\Project\ApiApp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+Z:\Study\.net\Project\ApiApp\DAL\bin\Debug\EntityFramework.xml
+Z:\Study\.net\Project\ApiApp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+Z:\Study\.net\Project\ApiApp\DAL\obj\Debug\DAL.csproj.CopyComplete

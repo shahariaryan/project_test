@@ -67,3 +67,12 @@ Z:\Study\.net\Project\APIApp\APIApp\obj\Debug\APIApp.csproj.CoreCompileInputs.ca
 Z:\Study\.net\Project\APIApp\APIApp\obj\Debug\APIApp.csproj.CopyComplete
 Z:\Study\.net\Project\APIApp\APIApp\obj\Debug\APIApp.dll
 Z:\Study\.net\Project\APIApp\APIApp\obj\Debug\APIApp.pdb
+Z:\Study\.net\Project\ApiApp\APIApp\bin\BEL.dll
+Z:\Study\.net\Project\ApiApp\APIApp\bin\AutoMapper.dll
+Z:\Study\.net\Project\ApiApp\APIApp\bin\DAL.dll
+Z:\Study\.net\Project\ApiApp\APIApp\bin\EntityFramework.dll
+Z:\Study\.net\Project\ApiApp\APIApp\bin\BEL.pdb
+Z:\Study\.net\Project\ApiApp\APIApp\bin\AutoMapper.xml
+Z:\Study\.net\Project\ApiApp\APIApp\bin\DAL.pdb
+Z:\Study\.net\Project\ApiApp\APIApp\bin\DAL.dll.config
+Z:\Study\.net\Project\ApiApp\APIApp\bin\EntityFramework.xml

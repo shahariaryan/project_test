@@ -7,3 +7,10 @@ Z:\Study\.net\Project\APIApp\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
 Z:\Study\.net\Project\APIApp\BLL\obj\Debug\BLL.csproj.CopyComplete
 Z:\Study\.net\Project\APIApp\BLL\obj\Debug\BLL.dll
 Z:\Study\.net\Project\APIApp\BLL\obj\Debug\BLL.pdb
+Z:\Study\.net\Project\ApiApp\BLL\bin\Debug\AutoMapper.dll
+Z:\Study\.net\Project\ApiApp\BLL\bin\Debug\BEL.dll
+Z:\Study\.net\Project\ApiApp\BLL\bin\Debug\EntityFramework.dll
+Z:\Study\.net\Project\ApiApp\BLL\bin\Debug\BEL.pdb
+Z:\Study\.net\Project\ApiApp\BLL\bin\Debug\DAL.dll.config
+Z:\Study\.net\Project\ApiApp\BLL\bin\Debug\AutoMapper.xml
+Z:\Study\.net\Project\ApiApp\BLL\bin\Debug\EntityFramework.xml
